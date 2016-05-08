@@ -1,0 +1,16 @@
+var:
+  option:
+    ascii_punct: false
+    full_shape: false
+    simplification: true
+  previously_selected_schema: luna_pinyin
+  schema_access_time:
+    cangjie5: 1461491643
+    double_pinyin_flypy: 1462004561
+    emoji: 1462169749
+    ipa_xsampa: 1461522940
+    jyutping: 1462227690
+    luna_pinyin: 1462229282
+    luna_pinyin_fluency: 1461491760
+    luna_pinyin_simp: 1462005950
+    terra_pinyin: 1461522985

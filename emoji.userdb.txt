@@ -1,0 +1,7 @@
+# Rime user dictionary
+#@/db_name	emoji.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	1
+#@/user_id	yongli-macbookpro
+chinese,head;tou`head 	👲	c=1 d=1 t=1

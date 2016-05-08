@@ -1,0 +1,20 @@
+# Rime dictionary
+# encoding: utf-8
+# This is yongli1992's own dictionary settings
+
+---
+name: luna_pinyin.yongli1992
+version: "2016.4.30"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin
+  - luna_pinyin.extended
+  - luna_pinyin.hanyu
+  - luna_pinyin.poetry
+  - luna_pinyin.cn_en
+  - abbreviation.yongli1992
+  - contacts.yongli1992
+  - greeks.yongli1992
+  - maths.yongli1992
+...

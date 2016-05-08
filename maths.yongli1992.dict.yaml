@@ -1,0 +1,123 @@
+# Rime dictionary
+# encoding: utf-8
+# 参考使用 latex 的命令
+# reference: http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html
+# greek letters are included in a separate dictionary file
+---
+name: maths.yongli1992
+version: "2016.4.30"
+sort: by_weight
+use_preset_vocabulary: true
+...
+# binary operation symbols
+±	pm
+∓	mp
+×	times
+÷	div
+∗	ast
+⋆	star
+∘	circ
+∙	bullet
+⋅	cdot
+∩	cap
+∪	cup
+⊎	uplus
+⊓	sqcap
+⊔	sqcup
+∨	vee
+∧	wedge
+∖	setminus
+≀	wr
+# - - is not supported.. I don't know what this is
+⋄	diamond
+∆	bigtriangleup
+∇	bigtriangledown
+⊲	lhd
+⊳	rhd
+⊴	unlhd
+⊵	unrhd
+⊕	oplus
+⊖	ominus
+⊗	otimes
+⊘	oslash
+⊙	odot
+◯	bigcircle
+†	dagger
+‡	ddagger
+⨿	amal
+
+# relatoin symbols
+≤	leq
+≺	prec
+≼	preceq
+≪	ll
+⊂	subset
+⊆	subseteq
+⊏	sqsubset
+⊑	sqsubseteq
+∈	in
+⊢	vdash
+≥	geq
+≻	succ
+≽	succeq
+≫	gg
+⊃	supset
+⊇	supseteq
+⊐	sqsupseteq
+⊒	sqsupseteq
+∋	ni
+⊣	dashv
+≡	equiv
+∼	sim
+≃	simeq
+≍	asymp
+≈	approx
+≅	cong
+≠	neq
+≐	doteq
+∝	propto
+# skip the <
+⊨	models
+⟂	perp
+∣	mid
+∥	parallel
+⋈	bowtie
+⨝	Join
+⨝	join # identical to Join
+⌣	smile
+⌢	frown
+# skip =
+# skip >
+
+# arrow symbols
+←	leftarrow
+⇐	Leftarrow
+→	rightarrow
+⇒	Rightarrow
+↔︎	leftrightarrow
+⇔	Leftrightarrow
+↦	mapsto
+
+# miscellaneous symbols
+∅	emptyset
+∇	nabla
+√	surd
+⊤	top
+⊥	bot
+∀	forall
+∃	exists
+¬	neg
+∞	infty
+
+# variable-sized symbols
+∑	sum
+∏	prod
+∐	coprod
+∫	int
+∮	oint
+
+# others. these are not in the latex commands, but I find them extremely useful to type
+∨	or
+∧	and
+⊤	true
+⊥	false

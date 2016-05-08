@@ -1,0 +1,57 @@
+# Rime dictionary
+# encoding: utf-8
+---
+name: greeks.yongli1992
+version: "2016.4.30"
+sort: by_weight
+use_preset_vocabulary: true
+...
+α	alpha
+Α	alpha
+β	beta
+Β	beta
+γ	gamma
+Γ	gamma
+δ	delta
+Δ	delta
+ε	epsilon
+Ε	epsilon
+ζ	zeta
+Ζ	zeta
+η	eta
+Η	eta
+θ	theta
+Θ	theta
+ι	iota
+Ι	iota
+κ	kappa
+Κ	kappa
+λ	lambda
+Λ	lambda
+μ	mu
+Μ	mu
+ν	nu
+Ν	nu
+ξ	ksi
+Ξ	ksi
+ο	omicron
+Ο	omicron
+π	pi
+Π	pi
+ρ	rho
+Ρ	rho
+σ	sigma
+ς	sigma
+Σ	sigma
+τ	tau
+Τ	tau
+υ	upsilon
+Υ	upsilon
+φ	phi
+Φ	phi
+χ	chi
+Χ	chi
+ψ	psi
+Ψ	psi
+ω	omega
+Ω	omega

@@ -1,0 +1,972 @@
+# Rime user dictionary
+#@/db_name	jyutping.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	1656
+#@/user_id	yongli-macbookpro
+aa 	呀	c=6 d=0.724768 t=1656
+aa 	啊	c=2 d=0.0185691 t=1656
+aa maa 	那麼	c=0 d=0.000990218 t=1656
+aa maa tong je 	那麼倘若	c=1 d=0.00995182 t=1656
+aa se 	那些	c=0 d=0.099005 t=1656
+aa se dung fong 	那些東方	c=1 d=0.995012 t=1656
+am taam 	黯淡	c=0 d=0.000136037 t=1656
+baa 	把	c=4 d=0.332185 t=1656
+baai tyut 	擺脫	c=1 d=0.0225956 t=1656
+baak 	百	c=1 d=0.0126512 t=1656
+baak jat 	白日	c=1 d=0.000391706 t=1656
+baat 	八	c=3 d=1.8495 t=1656
+ban hang 	品行	c=1 d=0.615697 t=1656
+ban zung 	笨重	c=1 d=0.0163259 t=1656
+bat 	不	c=8 d=0.815964 t=1656
+bat dou 	不到	c=1 d=0.00304273 t=1656
+bat gau 	不夠	c=1 d=0.0051953 t=1656
+bat gei 	筆記	c=2 d=0.256199 t=1656
+bat gwo 	不過	c=1 d=0.0599047 t=1656
+bat jan 	不忍	c=1 d=0.144424 t=1656
+bat ji 	不易	c=1 d=0.0159229 t=1656
+bat jing goi 	不應該	c=1 d=0.0010701 t=1656
+bat jiu 	不要	c=1 d=0.00358858 t=1656
+bat loi 	不來	c=1 d=0.241454 t=1656
+bat nang 	不能	c=1 d=0.379083 t=1656
+bat paa 	不怕	c=1 d=0.00194013 t=1656
+bat sau 	不守	c=1 d=0.0204453 t=1656
+bat si 	不是	c=3 d=0.101461 t=1656
+bat wui 	不會	c=1 d=0.189191 t=1656
+bat zi 	不只	c=1 d=0.394554 t=1656
+bat zoi 	不再	c=1 d=0.00209124 t=1656
+bei 	比	c=2 d=0.0292506 t=1656
+bei 	被	c=4 d=2.34034 t=1656
+bei am taam 	被黯淡	c=1 d=0.00136719 t=1656
+bei ci 	彼此	c=3 d=1.15909 t=1656
+bei cyun 	祕傳	c=1 d=0.0150707 t=1656
+bei mat 	祕密	c=3 d=0.00389581 t=1656
+bei nei 	畀你	c=1 d=0.00108628 t=1656
+bei oi 	悲哀	c=1 d=0.00290884 t=1656
+bin 	便	c=4 d=0.00919022 t=1656
+bin 	貶	c=1 d=0.0222592 t=1656
+bin dak 	變得	c=2 d=0.00245596 t=1656
+bing 	兵	c=0 d=0.1 t=1654
+bing 	病	c=1 d=0.0127147 t=1656
+bit sin 	必先	c=1 d=0.0026189 t=1656
+biu zeon 	標準	c=1 d=0.00937227 t=1656
+biu zyu 	標註	c=1 d=0.109154 t=1656
+bok 	博	c=1 d=0.000689186 t=1656
+bong taa 	幫他	c=1 d=0.0464212 t=1656
+bong zo 	幫助	c=1 d=0.0191587 t=1656
+bou fan 	部分	c=1 d=0.10383 t=1656
+bou lau 	保留	c=1 d=0.136014 t=1656
+bou zi 	步子	c=1 d=0.0221482 t=1656
+bu neng 	㖣𠽒	c=1 d=0.377192 t=1656
+bui hau 	背後	c=1 d=0.364219 t=1656
+bun doi 	半袋	c=1 d=0.869358 t=1656
+bun je 	半夜	c=0 d=0.0147342 t=1656
+caa 	差	c=3 d=0.55938 t=1656
+caa 	查	c=1 d=0.000620491 t=1656
+caa 	茶	c=1 d=0.865022 t=1656
+caam gaa 	參加	c=1 d=0.726149 t=1656
+caam jyu 	參與	c=1 d=0.729789 t=1656
+cak si 	測試	c=2 d=0.000752731 t=1656
+cam zung 	沉重	c=1 d=0.000792752 t=1656
+can 	陳	c=2 d=0.274332 t=1656
+can nin 	陳年	c=1 d=0.00530026 t=1656
+cang jyu 	曾與	c=1 d=0.0026852 t=1656
+cat 	七	c=2 d=0.0206642 t=1656
+cau 	臭	c=1 d=0.00980366 t=1656
+ce 	車	c=1 d=0.00201931 t=1656
+ceoi 	吹	c=1 d=0.0152222 t=1656
+ceoi jyun 	隨緣	c=1 d=0.00318278 t=1656
+ceoi mou kau ci 	吹毛求疵	c=1 d=0.0154523 t=1656
+ceoi nyun 	取暖	c=1 d=0.00398587 t=1656
+ceoi siu 	取消	c=1 d=0.228779 t=1656
+ceot faat 	出發	c=1 d=0.472367 t=1656
+ceot jin 	出現	c=1 d=0.0158434 t=1656
+ceot lai 	出來	c=1 d=0.0629761 t=1656
+ceot sau 	出售	c=1 d=1 t=1620
+ci 	似	c=2 d=0.590359 t=1656
+ci 	詞	c=0 d=0.00213864 t=1656
+ci zik 	辭職	c=1 d=0.190139 t=1656
+ci zung 	始終	c=1 d=0.00195963 t=1656
+cin 	前	c=1 d=0.183599 t=1656
+cin can 	前塵	c=1 d=0.0031042 t=1656
+cin gei tin 	前幾天	c=1 d=0.04573 t=1656
+cin tai 	前提	c=1 d=0.423162 t=1656
+cin zeon 	前進	c=1 d=0.690734 t=1656
+cing 	情	c=1 d=0.00155699 t=1656
+cing co 	清楚	c=1 d=0.357007 t=1656
+cing dou 	成都	c=1 d=0.631284 t=1656
+cing dou 	程度	c=1 d=0.00806679 t=1656
+cing gaau 	請教	c=1 d=0.00711891 t=1656
+cing jan zit 	情人節	c=1 d=0.00357068 t=1656
+cit siu 	撤消	c=1 d=0.227638 t=1656
+coi 	才	c=2 d=0.0378241 t=1656
+cong jip 	創業	c=1 d=0.0561348 t=1656
+cou 	草	c=1 d=0.179066 t=1656
+cou zok 	操作	c=1 d=0.0161635 t=1656
+cuk dung 	速凍	c=1 d=0.744532 t=1656
+cung 	從	c=1 d=0.0430669 t=1656
+cung 	重	c=1 d=0.625002 t=1656
+cyun zoi 	存在	c=1 d=0.0124629 t=1656
+daa jan 	打印	c=1 d=0.0685632 t=1656
+daa syun 	打算	c=1 d=0.0135009 t=1656
+daai 	大	c=3 d=1.50028 t=1656
+daai bun je 	大半夜	c=1 d=0.14808 t=1656
+daai hok 	大學	c=1 d=0.000682328 t=1656
+daai loi 	帶來	c=1 d=0.0117959 t=1656
+daai luk 	大陸	c=1 d=0.0117371 t=1656
+daam sam 	擔心	c=1 d=0.647265 t=1656
+daan fei 	單飛	c=1 d=0.0632918 t=1656
+daan gou 	蛋糕	c=1 d=0.856415 t=1656
+daan si 	但是	c=2 d=0.0365419 t=1656
+daat 	噠	c=1 d=0.278037 t=1656
+dai bou 	逮捕	c=2 d=1.28814 t=1656
+dai gwok 	帝國	c=1 d=0.0471227 t=1656
+dak 	得	c=2 d=0.00492047 t=1656
+dak bat dou 	得不到	c=1 d=0.00162866 t=1656
+dak dei 	特地	c=1 d=0.00708341 t=1656
+dak dou 	得到	c=4 d=2.32695 t=1656
+dang 	等	c=1 d=0.0023461 t=1656
+dat jin 	突然	c=2 d=0.543058 t=1656
+dau hou 	逗號	c=1 d=0.0195457 t=1656
+dau syu 	讀書	c=1 d=0.108609 t=1656
+dei 	地	c=6 d=0.783588 t=1656
+deoi 	對	c=1 d=0.0443785 t=1656
+dik 	滴	c=1 d=0.00114197 t=1656
+dik 	的	c=74 d=8.24054 t=1656
+dik waa 	的話	c=1 d=0.0968105 t=1656
+dim 	點	c=3 d=0.562065 t=1656
+ding 	訂	c=2 d=0.110759 t=1656
+dip 	碟	c=1 d=0.995012 t=1656
+diu 	掉	c=1 d=0.00189223 t=1656
+diu siu 	吊銷	c=1 d=0.229925 t=1656
+do 	多	c=5 d=0.00579158 t=1656
+do siu 	多少	c=1 d=1 t=1627
+doi gaa 	代價	c=1 d=0.0023935 t=1656
+dong jin 	當然	c=1 d=0.113042 t=1656
+dou 	到	c=4 d=0.486502 t=1656
+dou 	都	c=9 d=0.422724 t=1656
+dou dai 	到底	c=1 d=0.474734 t=1656
+dou hai 	都係	c=1 d=0.0116786 t=1656
+dou jau 	都有	c=1 d=0.0108347 t=1656
+duk laap 	獨立	c=0 d=0.0878095 t=1656
+duk laap jat 	獨立日	c=1 d=0.882497 t=1656
+dung 	懂	c=1 d=0.00263203 t=1656
+dung 	董	c=1 d=0.0376283 t=1656
+dung dak 	懂得	c=1 d=0.609571 t=1656
+dung fong 	東方	c=1 d=1.00838 t=1656
+dung ging 	東京	c=1 d=0.00489275 t=1656
+dung maa 	凍嗎	c=1 d=0.00179994 t=1656
+dyun 	斷	c=1 d=0.00431784 t=1656
+dyun 	段	c=2 d=0.00528424 t=1656
+dyun 	短	c=2 d=0.0088322 t=1656
+faa 	化	c=1 d=0.00353515 t=1656
+faa faan 	花瓣	c=1 d=0.00217658 t=1656
+faai 	塊	c=2 d=1.98511 t=1642
+faai 	快	c=1 d=0.000448321 t=1656
+faai lok 	快樂	c=1 d=0.358796 t=1656
+faan 	反	c=1 d=0.000617396 t=1656
+faan 	飯	c=1 d=0.261846 t=1656
+faan caa 	反查	c=1 d=0.000639387 t=1656
+faan dim 	飯店	c=1 d=0.737123 t=1656
+faan fui 	反悔	c=2 d=0.00226229 t=1656
+faan ji ci 	反義詞	c=1 d=0.831104 t=1656
+faan mut 	飯沒	c=1 d=0.264477 t=1656
+faan syu 	番薯	c=0 d=0.1 t=1654
+faan syu bing 	番薯兵	c=1 d=1 t=1655
+faan tai 	繁體	c=1 d=0.00612731 t=1656
+faan tai zi 	繁體字	c=3 d=0.0193176 t=1656
+faat 	發	c=1 d=0.00887071 t=1656
+faat 	髮	c=1 d=0.0037164 t=1656
+faat jam 	發音	c=2 d=0.0179651 t=1656
+faat jyu 	法語	c=1 d=0.018968 t=1656
+faat sang 	發生	c=1 d=0.00117088 t=1656
+fai lik 	費力	c=1 d=0.499074 t=1656
+fan coeng 	墳場	c=1 d=0.00219846 t=1656
+fan dau 	奮鬥	c=1 d=0.941765 t=1656
+fan hoeng 	分享	c=2 d=0.687984 t=1656
+fat 	窟	c=2 d=0.00239974 t=1656
+fau can 	浮塵	c=1 d=0.00113627 t=1656
+fau kwaa 	浮誇	c=1 d=0.00582847 t=1656
+fei 	霏	c=1 d=0.283654 t=1656
+fei 	非	c=1 d=0.00225411 t=1656
+fo 	課	c=1 d=0.116484 t=1656
+fo bai 	貨幣	c=1 d=1 t=1611
+fo faa 	火花	c=1 d=0.00232276 t=1656
+fong 	慌	c=1 d=0.186374 t=1656
+fong 	房	c=1 d=0.111917 t=1656
+fong 	方	c=2 d=0.375476 t=1656
+fong daai 	放大	c=0 d=0.0364219 t=1656
+fong daai tung 	放大同	c=1 d=0.366045 t=1656
+fong faat 	方法	c=1 d=0.00763509 t=1656
+fong min 	方面	c=1 d=0.00843808 t=1656
+fong on 	方案	c=1 d=0.000578542 t=1656
+fong wui 	放回	c=1 d=0.694197 t=1656
+fu 	撫	c=1 d=0.00367942 t=1656
+fu 	苦	c=1 d=0.0271874 t=1656
+fu 	虎	c=1 d=0.257947 t=1656
+fu haam 	呼喊	c=1 d=0.70822 t=1656
+fu ji doi 	富二代	c=1 d=0.0593087 t=1656
+fu mou 	父母	c=1 d=0.0169922 t=1656
+fu sam 	苦心	c=1 d=0.00197932 t=1656
+fu si saan 	富士山	c=3 d=0.014411 t=1656
+fu si saan haa 	富士山下	c=1 d=0.0816756 t=1656
+fui fuk 	恢復	c=1 d=0.697676 t=1656
+fui saap 	晦澀	c=1 d=0.0146986 t=1656
+fung leoi 	風褸	c=1 d=0.00532682 t=1656
+gaa 	嫁	c=2 d=0.121721 t=1656
+gaa cit 	假設	c=2 d=0.41772 t=1656
+gaa ding 	假定	c=1 d=0.0124007 t=1656
+gaa faai 	加快	c=1 d=0.0220377 t=1656
+gaa jau 	加油	c=1 d=0.120032 t=1656
+gaai 	皆	c=1 d=0.0173355 t=1656
+gaai 	解	c=1 d=0.00551656 t=1656
+gaai kyut 	解決	c=2 d=0.772891 t=1656
+gaai zi 	戒指	c=1 d=0.000784864 t=1656
+gaai zyut 	解絕	c=1 d=0.00752142 t=1656
+gaang dyun 	更段	c=1 d=0.0043831 t=1656
+gaau 	交	c=1 d=0.0689068 t=1656
+gaau 	搞	c=3 d=0.116828 t=1656
+gaau ding 	搞定	c=1 d=0.0958472 t=1656
+gaau jau 	郊遊	c=1 d=0.715338 t=1656
+gaau zai 	交際	c=1 d=0.000403635 t=1656
+gai zuk 	繼續	c=2 d=0.119388 t=1656
+gam gok 	感覺	c=1 d=0.00292342 t=1656
+gam jat 	今日	c=2 d=0.184881 t=1656
+gam jung 	金融	c=2 d=0.127459 t=1656
+gam tin 	今天	c=3 d=0.27535 t=1656
+gan 	緊	c=3 d=0.0959243 t=1656
+gan 	跟	c=4 d=0.333945 t=1656
+gan bun 	根本	c=1 d=0.00740944 t=1656
+gan gan 	僅僅	c=1 d=0.771052 t=1656
+gang 	更	c=3 d=0.409918 t=1656
+gang gaa 	更加	c=3 d=0.269604 t=1656
+gat faan 	吃飯	c=1 d=0.0784731 t=1656
+gau 	九	c=1 d=0.0104621 t=1656
+gau 	救	c=1 d=0.733447 t=1656
+gau 	購	c=1 d=0.909373 t=1656
+gau maai 	購買	c=1 d=0.0692522 t=1656
+gau zai 	救濟	c=1 d=0.0193512 t=1656
+ge 	嘅	c=7 d=1.63916 t=1656
+gei 	幾	c=3 d=0.0135917 t=1656
+gei cou 	記錯	c=1 d=0.071719 t=1656
+gei dak 	記得	c=1 d=0.00168667 t=1656
+gei dim 	幾點	c=1 d=0.311923 t=1656
+gei jik 	記憶	c=1 d=0.00112497 t=1656
+gei jin 	既然	c=1 d=0.19593 t=1656
+gei leot 	紀律	c=2 d=0.0407897 t=1656
+gei piu 	機票	c=4 d=0.48858 t=1656
+gei syun gei 	計算機	c=1 d=0.075774 t=1656
+gei tin 	幾天	c=1 d=0.0480747 t=1656
+geoi paa 	懼怕	c=2 d=1.29459 t=1656
+gim caa 	檢查	c=1 d=0.955997 t=1656
+gin 	見	c=1 d=0.0932394 t=1656
+gin 	鍵	c=1 d=0.000596161 t=1656
+gin jan 	堅忍	c=1 d=0.606531 t=1656
+ging hung 	驚恐	c=1 d=0.818731 t=1656
+ging kei 	驚奇	c=1 d=0.0198411 t=1656
+ging ngaa 	驚訝	c=1 d=0.0197421 t=1656
+git baa 	結巴	c=1 d=0.00216573 t=1656
+git gwo 	結果	c=1 d=0.066205 t=1656
+go 	個	c=1 d=0.00158844 t=1656
+go 	歌	c=1 d=0.124307 t=1656
+gok jau 	各有	c=1 d=0.0109436 t=1656
+gok ng 	覺悟	c=1 d=0.0988808 t=1656
+gok ng zi 	覺悟寺	c=1 d=0.00115345 t=1656
+gon gan 	趕緊	c=2 d=0.000973755 t=1656
+gong 	剛	c=1 d=0.0724398 t=1656
+gong 	講	c=4 d=0.376493 t=1656
+gong gong 	剛剛	c=1 d=0.0448245 t=1656
+gou 	高	c=3 d=0.345047 t=1656
+gou ci 	告辭	c=1 d=0.985112 t=1656
+gou gu 	高估	c=1 d=0.603506 t=1656
+gou hing 	高興	c=1 d=0.722527 t=1656
+gu sou 	姑蘇	c=1 d=0.355226 t=1656
+gu zap 	固執	c=2 d=0.00248065 t=1656
+guk 	谷	c=1 d=0.0057994 t=1656
+gun 	管	c=1 d=0.0120946 t=1656
+gung cong 	工廠	c=1 d=0.790571 t=1656
+gung gaau ce 	公交車	c=1 d=0.00634556 t=1656
+gung hei 	恭喜	c=2 d=0.0358163 t=1656
+gung jan 	公認	c=1 d=0.00932553 t=1656
+gung si 	公司	c=1 d=0.0407622 t=1656
+gung zok 	工作	c=1 d=0.0520787 t=1656
+gwaan hai 	關係	c=2 d=0.0361558 t=1656
+gwaan zyu 	關注	c=1 d=0.00653881 t=1656
+gwai bing 	歸併	c=0 d=0.022091 t=1656
+gwai bing jap 	歸併入	c=1 d=0.222017 t=1656
+gwai gaa 	歸家	c=2 d=0.00517387 t=1656
+gwo 	過	c=3 d=0.136718 t=1656
+gwo cing 	過程	c=1 d=0.390628 t=1656
+gwok 	國	c=2 d=0.298209 t=1656
+gwok zai 	國際	c=1 d=0.293758 t=1656
+gwong 	光	c=1 d=0.514274 t=1656
+gwong dung waa 	廣東話	c=2 d=0.35197 t=1656
+gwong fu 	廣府	c=1 d=0.000584356 t=1656
+gwong gou 	廣告	c=1 d=0.0269169 t=1656
+haa 	下	c=2 d=0.15725 t=1656
+haa coeng 	下場	c=1 d=0.571209 t=1656
+haa fo 	下課	c=1 d=0.159614 t=1656
+haak 	客	c=1 d=0.546074 t=1656
+haau 	敲	c=1 d=0.000590229 t=1656
+haau leoi 	考慮	c=1 d=0.0800583 t=1656
+haau zeon 	校準	c=1 d=1 t=1609
+hai 	係	c=7 d=1.89286 t=1656
+hai 	喺	c=1 d=0.442639 t=1656
+hak 	黑	c=0 d=0.1 t=1651
+hak min 	黑麪	c=0 d=0.1 t=1651
+han do 	很多	c=1 d=0.0342181 t=1656
+han do jan 	很多人	c=1 d=0.0285814 t=1656
+hang dung 	行動	c=1 d=0.000655574 t=1656
+hat 	吃	c=1 d=0.263158 t=1656
+hau 	口	c=2 d=0.357597 t=1656
+hau 	猴	c=1 d=0.000405658 t=1656
+hau hak min hak 	口黑麪黑	c=3 d=2.98506 t=1654
+hau loi 	後來	c=1 d=0.060205 t=1656
+hei ce 	汽車	c=2 d=0.00781428 t=1656
+hei dak 	起得	c=1 d=0.0241131 t=1656
+hei fun 	喜歡	c=1 d=0.0057417 t=1656
+hei fun nei 	喜歡你	c=1 d=0.00577048 t=1656
+hei lai 	起來	c=1 d=0.0175975 t=1656
+hei loi 	起來	c=1 d=0.535261 t=1656
+hei mong 	希望	c=1 d=0.219808 t=1656
+heoi 	去	c=7 d=0.777409 t=1656
+heoi gau 	虛構	c=1 d=0.00299743 t=1656
+heoi nin 	去年	c=1 d=0.0391639 t=1656
+heoi zou 	去做	c=0 d=0.00232837 t=1656
+hin ceot 	顯出	c=1 d=0.0236356 t=1656
+hin gwaa 	牽掛	c=1 d=0.00196945 t=1656
+hing mui 	兄妹	c=1 d=0.591555 t=1656
+hing zau 	輕舟	c=1 d=0.351692 t=1656
+hing zuk 	慶祝	c=2 d=0.00218293 t=1656
+ho 	何	c=1 d=0.246597 t=1656
+ho 	可	c=1 d=0.247833 t=1656
+ho ho 	呵呵	c=2 d=0.112954 t=1656
+ho ji 	可以	c=6 d=0.303505 t=1656
+ho ji maa 	可以嗎	c=1 d=0.0257325 t=1656
+ho jung 	何用	c=1 d=0.000731802 t=1656
+ho nang 	可能	c=6 d=0.264564 t=1656
+ho wai 	何爲	c=1 d=0.00377257 t=1656
+hoeng 	向	c=4 d=0.977709 t=1656
+hoeng gong 	香港	c=2 d=0.0651347 t=1656
+hoeng gong jan 	香港人	c=1 d=0.00918669 t=1656
+hoi 	害	c=1 d=0.327915 t=1656
+hoi 	開	c=1 d=0.265803 t=1656
+hoi ci 	開始	c=1 d=0.00293051 t=1656
+hoi ci heoi zou 	開始去做	c=1 d=0.0234005 t=1656
+hoi liu 	開了	c=1 d=0.00481991 t=1656
+hoi paa 	害怕	c=6 d=2.13817 t=1656
+hok 	學	c=5 d=0.670625 t=1656
+hok haau 	學校	c=1 d=0.0325493 t=1656
+hok hok 	學學	c=0 d=5.67086e-05 t=1656
+hok hok wui 	學學會	c=1 d=0.000569928 t=1656
+hok sang 	學生	c=3 d=0.0943435 t=1656
+hok zaap 	學習	c=6 d=0.570763 t=1656
+hok zoeng 	學長	c=3 d=0.202212 t=1656
+hon 	漢	c=2 d=0.0476904 t=1656
+hon 	看	c=5 d=0.281708 t=1656
+hon do 	看多	c=1 d=0.0280154 t=1656
+hon dou 	看到	c=1 d=0.140156 t=1656
+hon hon 	看看	c=1 d=0.0668703 t=1656
+hon jat hon 	看一看	c=1 d=0.165299 t=1656
+hon jau 	罕有	c=1 d=0.00334597 t=1656
+hon jyu 	漢語	c=1 d=0.000608204 t=1656
+hon jyu 	韓語	c=1 d=0.447088 t=1656
+hon liu 	看了	c=0 d=0.0113608 t=1656
+hon liu wui 	看了會	c=1 d=0.114178 t=1656
+hon syu 	看書	c=1 d=0.000553084 t=1656
+hong muk 	項目	c=1 d=0.0566989 t=1656
+hou 	好	c=3 d=0.496035 t=1656
+hou baa 	好吧	c=2 d=0.0363948 t=1656
+hou dik 	好的	c=4 d=1.27501 t=1656
+hou ge 	好嘅	c=1 d=0.105928 t=1656
+hou noi 	好耐	c=0 d=0.0932394 t=1656
+hou noi m gin 	好耐唔見	c=1 d=0.937067 t=1656
+hou si 	好事	c=1 d=0.00276698 t=1656
+hou siu 	好笑	c=1 d=0.0211736 t=1656
+hou zoeng 	好像	c=3 d=0.158721 t=1656
+hung haa 	紅霞	c=1 d=0.353455 t=1656
+hung jan 	紅人	c=1 d=0.0237541 t=1656
+hung zai juk 	控制慾	c=1 d=0.0170774 t=1656
+jaa 	也	c=15 d=0.535424 t=1656
+jaa si 	也是	c=2 d=0.084438 t=1656
+jai 	拽	c=1 d=0.666977 t=1656
+jam 	任	c=1 d=0.00255424 t=1656
+jam biu 	音標	c=1 d=0.29523 t=1656
+jam ho 	任何	c=1 d=0.00117675 t=1656
+jam ho si 	任何事	c=1 d=0.00118265 t=1656
+jam jap 	飲泣	c=1 d=0.00177315 t=1656
+jam nei 	任你	c=1 d=0.00256704 t=1656
+jan 	人	c=7 d=0.122205 t=1656
+jan ci 	因此	c=1 d=0.410656 t=1656
+jan cong 	隱藏	c=1 d=0.00078095 t=1656
+jan ding 	認定	c=1 d=0.0122773 t=1656
+jan dou 	引導	c=1 d=0.000593188 t=1656
+jan jau 	引誘	c=1 d=0.00109172 t=1656
+jan jyun 	恩怨	c=1 d=0.00477195 t=1656
+jan sik 	認識	c=1 d=0.0137736 t=1656
+jan soeng 	欣賞	c=2 d=0.960819 t=1656
+jan tung 	忍痛	c=1 d=0.00414854 t=1656
+jan wai 	因爲	c=1 d=0.382893 t=1656
+jan zoeng 	印象	c=1 d=0.634448 t=1656
+jap 	入	c=0 d=0.022091 t=1656
+jap mun 	入門	c=1 d=0.00697795 t=1656
+jap zik 	入職	c=1 d=0.0185924 t=1656
+jat 	一	c=5 d=0.0508993 t=1656
+jat 	日	c=2 d=1.15135 t=1656
+jat baak 	一百	c=1 d=0.211189 t=1656
+jat bun 	一般	c=3 d=0.0339798 t=1656
+jat ci 	一次	c=1 d=0.0953692 t=1656
+jat deoi 	一對	c=1 d=0.594521 t=1656
+jat dim 	一點	c=1 d=0.000652304 t=1656
+jat ding 	一定	c=1 d=0.0347353 t=1656
+jat dip 	一碟	c=1 d=0.349938 t=1656
+jat doi 	一袋	c=1 d=0.860708 t=1656
+jat faan 	一番	c=2 d=0.00238851 t=1656
+jat go 	一個	c=10 d=2.49511 t=1656
+jat haa 	一下	c=2 d=0.348445 t=1656
+jat hei 	一起	c=4 d=0.0632514 t=1656
+jat maan 	一晚	c=1 d=0.209088 t=1656
+jat sang jat sai 	一生一世	c=1 d=0.0023344 t=1656
+jat sau 	一首	c=1 d=0.123687 t=1656
+jat se 	一些	c=1 d=0.00680566 t=1656
+jat siu sat 	一消失	c=1 d=0.00160441 t=1656
+jat tin 	一天	c=1 d=0.00235786 t=1656
+jat tong 	一趟	c=1 d=0.163654 t=1656
+jat wui 	一會	c=1 d=0.158817 t=1656
+jat zau 	一週	c=1 d=0.00346515 t=1656
+jat zik 	一直	c=1 d=0.0065062 t=1656
+jat zou 	一早	c=1 d=0.0049667 t=1656
+jau 	有	c=13 d=1.59783 t=1656
+jau 	由	c=1 d=0.436049 t=1656
+jau am 	幽暗	c=1 d=0.00166156 t=1656
+jau ceoi 	有趣	c=1 d=0.0209629 t=1656
+jau dim 	有點	c=1 d=0.0110536 t=1656
+jau gin 	又見	c=1 d=0.551563 t=1656
+jau haau 	有效	c=1 d=0.491644 t=1656
+jau kau 	有求	c=2 d=0.0165007 t=1656
+jau mut jau 	有沒有	c=1 d=0.00618889 t=1656
+jau waat 	油滑	c=1 d=0.509156 t=1656
+jau zoi 	又在	c=2 d=0.000926407 t=1656
+je 	嘢	c=1 d=0.0812682 t=1656
+je caan 	野餐	c=1 d=0.71177 t=1656
+je sing 	野性	c=1 d=0.00152616 t=1656
+ji 	二	c=1 d=0.0100518 t=1656
+ji 	以	c=1 d=0.000633025 t=1656
+ji 	而	c=2 d=0.497548 t=1656
+ji bin fung 	耳邊風	c=1 d=0.000845993 t=1656
+ji dung 	移動	c=2 d=0.0169009 t=1656
+ji ging 	已經	c=5 d=0.866503 t=1656
+ji hau 	以後	c=1 d=0.160414 t=1656
+ji ji 	意義	c=1 d=0.0131675 t=1656
+ji laai 	依賴	c=2 d=0.799055 t=1656
+ji nin kap 	二年級	c=1 d=0.0232837 t=1656
+ji sik 	意識	c=1 d=0.102284 t=1656
+ji tou 	意圖	c=1 d=0.0132999 t=1656
+ji wai 	以爲	c=1 d=0.000466618 t=1656
+ji zi 	意指	c=1 d=0.0134335 t=1656
+jik 	亦	c=3 d=0.278222 t=1656
+jim 	嫌	c=1 d=0.00516939 t=1656
+jim wu 	染污	c=1 d=0.00307331 t=1656
+jin gau 	研究	c=2 d=0.0873072 t=1656
+jin zoi 	現在	c=1 d=0.0536647 t=1656
+jing 	應	c=1 d=0.00214418 t=1656
+jing faa 	櫻花	c=1 d=0.00479587 t=1656
+jing goi 	應該	c=4 d=1.09217 t=1656
+jing gwok 	英國	c=1 d=0.000510561 t=1656
+jing hoeng 	影響	c=1 d=0.302704 t=1656
+jing jau 	應有	c=1 d=0.00436124 t=1656
+jip 	葉	c=1 d=0.286505 t=1656
+jip man 	葉問	c=1 d=0.287941 t=1656
+jit 	咽	c=1 d=0.25924 t=1656
+jiu 	繞	c=2 d=0.00684422 t=1656
+jiu 	要	c=8 d=1.84046 t=1656
+jiu bat jiu 	要不要	c=1 d=0.161218 t=1656
+jiu jin 	謠言	c=1 d=0.00161245 t=1656
+jiu jyun 	遙遠	c=1 d=0.00509243 t=1656
+jiu kau 	要求	c=2 d=0.041575 t=1656
+jiu sai 	腰細	c=1 d=1 t=1621
+jiu wai 	腰圍	c=1 d=1 t=1624
+joek 	藥	c=2 d=0.0258789 t=1656
+joeng nei 	讓你	c=1 d=0.208045 t=1656
+jung 	用	c=1 d=0.380983 t=1656
+jung bat dou 	用不到	c=1 d=0.00798652 t=1656
+jung hei 	勇氣	c=4 d=0.00438005 t=1656
+jung jau 	擁有	c=3 d=0.36578 t=1656
+jung naap 	容納	c=2 d=0.00235803 t=1656
+jung pou 	擁抱	c=0 d=0.000249118 t=1656
+jyu 	於	c=1 d=0.398519 t=1656
+jyu 	與	c=4 d=0.759374 t=1656
+jyu 	雨	c=2 d=0.283978 t=1656
+jyu ci 	如此	c=1 d=0.198891 t=1656
+jyu faai 	愉快	c=1 d=0.718924 t=1656
+jyu gwo 	如果	c=1 d=0.00814786 t=1656
+jyu hei 	語氣	c=1 d=0.0096577 t=1656
+jyu ho 	如何	c=2 d=0.113595 t=1656
+jyu jin 	語言	c=1 d=0.000567086 t=1656
+jyu joek 	如若	c=1 d=0.00223168 t=1656
+jyu lung 	愚弄	c=1 d=0.000833397 t=1656
+jyu syun 	預算	c=1 d=0.00465413 t=1656
+jyun 	完	c=1 d=0.375311 t=1656
+jyun 	遠	c=1 d=0.00111936 t=1656
+jyun cyun 	完全	c=1 d=0.000389752 t=1656
+jyun gin 	軟件	c=2 d=0.257483 t=1656
+jyun lai 	原來	c=1 d=0.0389686 t=1656
+jyun loeng 	原諒	c=5 d=0.00909928 t=1656
+jyun waat 	圓滑	c=1 d=0.50409 t=1656
+jyun zo 	援助	c=1 d=0.0192547 t=1656
+jyut 	越	c=2 d=0.00174793 t=1656
+jyut dau 	閱讀	c=9 d=1.92355 t=1656
+jyut fan 	月份	c=2 d=0.0373732 t=1656
+jyut jyu 	粵語	c=7 d=1.04246 t=1656
+jyut ping 	粵拼	c=2 d=0.02026 t=1656
+kaau 	靠	c=1 d=0.673929 t=1656
+kaau gan 	靠近	c=1 d=0.680451 t=1656
+kaau jung pou 	靠擁抱	c=1 d=0.00250366 t=1656
+kai jung 	啓用	c=1 d=0.000636198 t=1656
+kam faa 	襟花	c=1 d=0.0018734 t=1656
+kam fong 	琴房	c=1 d=0.151072 t=1656
+kam jat 	琴日	c=1 d=0.000383949 t=1656
+kap 	給	c=2 d=0.10882 t=1656
+kap nei 	給你	c=1 d=0.121846 t=1656
+kau 	求	c=1 d=0.0153752 t=1656
+kit heoi 	揭去	c=1 d=0.798516 t=1656
+koeng 	強	c=1 d=0.017249 t=1656
+kwaa zoeng 	誇獎	c=1 d=0.600496 t=1656
+kwai hyun 	規勸	c=1 d=0.00404611 t=1656
+kwan 	羣	c=2 d=0.0563146 t=1656
+kyut deng 	決定	c=1 d=0.207008 t=1656
+laa 	啦	c=9 d=1.99005 t=1656
+laa 	拉	c=1 d=0.66365 t=1656
+laam jung 	濫用	c=1 d=0.00107547 t=1656
+laan 	爛	c=1 d=0.00172937 t=1656
+laang 	冷	c=1 d=0.272532 t=1656
+laap hak 	立刻	c=1 d=0.231078 t=1656
+laap zik 	立即	c=1 d=0.232236 t=1656
+lai 	厲	c=1 d=0.32628 t=1656
+lai 	嚟	c=1 d=0.0113334 t=1656
+lai zi 	例子	c=1 d=0.83527 t=1656
+lau 	流	c=1 d=0.145148 t=1656
+lau haa loi 	留下來	c=1 d=0.0575558 t=1656
+lau tung 	流通	c=1 d=1 t=1610
+lau zoi 	留在	c=1 d=0.00384878 t=1656
+le 	咧	c=1 d=0.063609 t=1656
+lei 	里	c=2 d=0.00907856 t=1656
+lei gung 	理工	c=1 d=0.0473589 t=1656
+lei hoi 	利害	c=2 d=0.00118744 t=1656
+lei sing 	理性	c=1 d=0.00144449 t=1656
+leoi 	旅	c=1 d=0.00494193 t=1656
+leoi 	裏	c=2 d=0.006939 t=1656
+leoi 	裡	c=5 d=0.0185365 t=1656
+leoi 	褸	c=1 d=0.00180897 t=1656
+leoi lau 	淚流	c=1 d=0.00278085 t=1656
+leon deon 	倫敦	c=1 d=0.0544757 t=1656
+lin 	練	c=3 d=2.96042 t=1640
+lin 	連	c=2 d=0.892783 t=1656
+lin zaap 	練習	c=1 d=0.315058 t=1656
+ling 	領	c=1 d=0.0136366 t=1656
+ling nei 	令你	c=1 d=0.00379148 t=1656
+ling ng 	領悟	c=1 d=0.0137049 t=1656
+ling ngoi 	另外	c=1 d=0.0424257 t=1656
+liu 	了	c=25 d=2.8007 t=1656
+loeng 	兩	c=2 d=0.00208348 t=1656
+loeng go 	兩個	c=1 d=0.00098783 t=1656
+loeng go jan 	兩個人	c=1 d=0.00132016 t=1656
+loi 	來	c=0 d=0.0474734 t=1656
+loi bat loi 	來不來	c=1 d=0.477114 t=1656
+loi zi 	來自	c=1 d=0.00296761 t=1656
+long jau 	浪遊	c=1 d=0.00272578 t=1656
+lou 	老	c=1 d=0.00453922 t=1656
+lou 	路	c=1 d=0.00458484 t=1656
+lou baan 	老闆	c=1 d=0.740818 t=1656
+lou si 	老師	c=2 d=0.0144532 t=1656
+luk 	六	c=1 d=0.0102549 t=1656
+luk jyut fan 	六月份	c=1 d=0.0824965 t=1656
+lung heoi zok gaa 	弄虛作假	c=1 d=0.0230521 t=1656
+lyun hai 	聯繫	c=1 d=0.00873865 t=1656
+m 	唔	c=0 d=0.0932394 t=1656
+m gau 	唔夠	c=1 d=0.418952 t=1656
+m hai 	唔係	c=2 d=0.0170477 t=1656
+maa 	嗎	c=7 d=0.646888 t=1656
+maa soeng 	馬上	c=1 d=0.2334 t=1656
+maai 	買	c=1 d=0.024972 t=1656
+maai coi 	買菜	c=1 d=0.794534 t=1656
+maak 	麥	c=1 d=0.904837 t=1656
+maan 	晚	c=1 d=0.0244775 t=1656
+maan 	萬	c=1 d=0.0129068 t=1656
+maan hung 	晚空	c=1 d=0.00167826 t=1656
+maan ling 	萬靈	c=1 d=0.0129715 t=1656
+maang lit 	猛烈	c=1 d=0.251579 t=1656
+mai 	迷	c=1 d=0.548812 t=1656
+mai jan 	迷人	c=1 d=0.540641 t=1656
+man 	問	c=2 d=0.346707 t=1656
+man dong 	文檔	c=1 d=0.000382034 t=1656
+man man 	問問	c=1 d=0.0485578 t=1656
+man nei 	問你	c=1 d=0.000713734 t=1656
+man tai 	問題	c=3 d=0.891653 t=1656
+mau 	某	c=1 d=0.763379 t=1656
+mau jan 	某人	c=1 d=0.980199 t=1656
+mei 	美	c=1 d=0.559898 t=1656
+min 	麪	c=1 d=0.0875977 t=1656
+min hung 	面孔	c=1 d=0.000863083 t=1656
+min saa 	面紗	c=1 d=0.802519 t=1656
+ming ji 	名義	c=1 d=0.00108086 t=1656
+ming jyut 	明月	c=1 d=0.000626727 t=1656
+ming zi 	名字	c=1 d=0.00110822 t=1656
+miu 	秒	c=1 d=0.0231676 t=1656
+mo 	磨	c=1 d=0.00184551 t=1656
+mo 	麼	c=1 d=0.000531398 t=1656
+mo saak 	摸索	c=1 d=1 t=1656
+mong diu 	忘掉	c=1 d=0.00467746 t=1656
+mong gin 	望見	c=1 d=0.000773179 t=1656
+mou 	冇	c=1 d=1 t=1629
+mou 	毛	c=1 d=0.0152985 t=1656
+mou 	無	c=1 d=0.020141 t=1656
+mou jin 	無言	c=1 d=0.000742862 t=1656
+mou leoi hon faa 	霧裏看花	c=1 d=0.00115923 t=1656
+mui 	每	c=1 d=0.0113902 t=1656
+mun 	門	c=1 d=0.0138427 t=1656
+mun ling 	門鈴	c=2 d=1.69581 t=1656
+mun mun 	滿滿	c=1 d=0.20089 t=1656
+mut 	沒	c=3 d=0.435996 t=1656
+mut jau 	沒有	c=5 d=0.304586 t=1656
+mut soeng dou 	沒想到	c=1 d=0.000409735 t=1656
+naa 	哪	c=1 d=0.053397 t=1656
+naa 	拿	c=3 d=0.185187 t=1656
+naa 	那	c=5 d=1.82088 t=1656
+naa dou 	拿到	c=3 d=0.158008 t=1656
+naa go 	那個	c=6 d=0.319917 t=1656
+naa se 	那些	c=1 d=0.010889 t=1656
+naam bou 	南部	c=1 d=0.344728 t=1656
+naan 	難	c=4 d=0.455413 t=1656
+naan dou 	難道	c=6 d=0.00675286 t=1656
+naan gaai 	難解	c=1 d=0.0147723 t=1656
+naap jap 	納入	c=1 d=0.22091 t=1656
+nang 	能	c=3 d=0.2565 t=1656
+ne 	呢	c=2 d=0.149983 t=1656
+ne au zeon 	呢歐進	c=1 d=0.000665481 t=1656
+ne dok 	呢度	c=1 d=0.444858 t=1656
+nei 	你	c=35 d=1.42568 t=1656
+nei 	您	c=1 d=1 t=1622
+nei hou 	你好	c=4 d=0.941765 t=1656
+nei si 	你是	c=2 d=0.0187274 t=1656
+neoi pang jau 	女朋友	c=3 d=0.154995 t=1656
+ng 	五	c=1 d=0.0102037 t=1656
+ng 	嗯	c=1 d=0.0258615 t=1656
+ng go 	吳哥	c=2 d=0.00238777 t=1656
+ng hoeng 	五香	c=2 d=0.000870154 t=1656
+ngaam dung 	巖洞	c=2 d=0.00162159 t=1656
+ngaan 	眼	c=1 d=0.212248 t=1656
+ngaan leoi 	眼淚	c=1 d=0.147342 t=1656
+ngaan mau 	眼眸	c=1 d=0.00308872 t=1656
+ngaang faa 	硬化	c=2 d=0.00625515 t=1656
+ngai 	藝	c=1 d=0.923116 t=1656
+ngau 	牛	c=4 d=0.0022155 t=1656
+ngau zeon 	牛津	c=5 d=0.0466123 t=1656
+ngo 	我	c=36 d=3.07822 t=1656
+ngo dei 	我哋	c=1 d=0.438235 t=1656
+ngo dik 	我的	c=1 d=0.937067 t=1656
+ngo jiu 	我要	c=1 d=0.000547581 t=1656
+ngo mun 	我們	c=1 d=0.0944202 t=1656
+ngoi 	外	c=1 d=0.013912 t=1656
+ngon 	岸	c=1 d=0.677057 t=1656
+ni go 	呢個	c=2 d=0.000741525 t=1656
+ni haa o 	呢下哦	c=1 d=1 t=1656
+nin 	年	c=1 d=0.0963276 t=1656
+nok jin 	諾言	c=1 d=0.00130051 t=1656
+nok jing 	諾應	c=1 d=0.000973123 t=1656
+nou 	怒	c=1 d=0.484325 t=1656
+nou noi 	腦內	c=1 d=0.0072265 t=1656
+o 	哦	c=6 d=0.827196 t=1656
+o o 	哦哦	c=2 d=0.458947 t=1656
+oi ji 	愛意	c=1 d=0.00282287 t=1656
+on 	安	c=1 d=0.00603608 t=1656
+on 	按	c=2 d=1.68735 t=1656
+on paai 	安排	c=1 d=1 t=1601
+on zong 	安葬	c=1 d=0.000800719 t=1656
+paau 	跑	c=1 d=0.00323088 t=1656
+paau dai 	拋低	c=1 d=0.285076 t=1656
+pang 	彭	c=1 d=0.000685748 t=1656
+pang 	憑	c=1 d=0.00280879 t=1656
+pin 	偏	c=1 d=0.00174675 t=1656
+ping 	拼	c=1 d=0.305746 t=1656
+ping jam 	拼音	c=3 d=0.00181677 t=1656
+piu 	票	c=1 d=0.913931 t=1656
+piu gwo 	飄過	c=1 d=0.557106 t=1656
+pong daai 	龐大	c=1 d=0.01649 t=1656
+pou 	泡	c=1 d=1 t=1648
+pou 	浦	c=1 d=0.0434998 t=1656
+pou mun 	鋪滿	c=1 d=0.00218749 t=1656
+pou tung 	普通	c=1 d=0.00990218 t=1656
+pou tung waa 	普通話	c=1 d=0.000614317 t=1656
+pui joeng 	培養	c=1 d=0.782705 t=1656
+pui juk 	培育	c=1 d=0.786628 t=1656
+saai sam gei 	嘥心機	c=1 d=1 t=1650
+saam 	三	c=2 d=0.0109232 t=1656
+saam faan 	三番	c=0 d=8.2099e-05 t=1656
+saan cyu 	刪除	c=1 d=0.0121552 t=1656
+sai 	世	c=1 d=0.00506703 t=1656
+sai 	使	c=3 d=2.10069 t=1656
+sai 	西	c=1 d=0.0432828 t=1656
+sai gaan 	世間	c=1 d=0.56836 t=1656
+sai lei 	犀利	c=1 d=0.329559 t=1656
+sai wun 	洗碗	c=1 d=0.99005 t=1656
+sai zit 	細節	c=1 d=0.965605 t=1656
+sam 	深	c=1 d=0.00113061 t=1656
+sam hak 	深刻	c=1 d=0.00157264 t=1656
+sam jyun 	深遠	c=2 d=0.596402 t=1656
+sam mo 	什麼	c=4 d=0.0645227 t=1656
+sam sau 	深受	c=1 d=0.0266491 t=1656
+sam sing 	心聲	c=2 d=0.00149633 t=1656
+sam syun 	心酸	c=1 d=0.00382958 t=1656
+san bei 	神祕	c=1 d=0.0149208 t=1656
+san fan 	身份	c=1 d=0.00111378 t=1656
+san fu 	辛苦	c=1 d=0.142987 t=1656
+sang ming 	生命	c=1 d=0.028837 t=1656
+sang ming syu 	生命樹	c=2 d=0.824182 t=1656
+sat heoi 	失去	c=1 d=0.00264522 t=1656
+sat lyun 	失戀	c=1 d=0.00433948 t=1656
+sau 	守	c=1 d=0.00148106 t=1656
+sau 	手	c=2 d=0.340631 t=1656
+sau goi 	修改	c=1 d=0.082085 t=1656
+sau sok 	搜索	c=1 d=0.00631391 t=1656
+sau wui 	收回	c=1 d=0.226502 t=1656
+sau wun 	手腕	c=1 d=0.00412784 t=1656
+se 	寫	c=3 d=0.342791 t=1656
+se 	捨	c=1 d=0.628135 t=1656
+se jyun 	寫完	c=1 d=0.00042433 t=1656
+sei 	四	c=1 d=0.0101529 t=1656
+sei ci 	四次	c=0 d=8.2099e-05 t=1656
+sei ci saam faan 	四次三番	c=1 d=0.000825105 t=1656
+sei nin 	四年	c=1 d=0.182684 t=1656
+sei tin 	四天	c=1 d=0.118245 t=1656
+sek tau 	石頭	c=1 d=0.00316691 t=1656
+seng 	聲	c=1 d=0.0330412 t=1656
+seoi 	歲	c=2 d=0.101571 t=1656
+seoi 	誰	c=3 d=0.241584 t=1656
+seoi 	雖	c=0 d=7.31802e-05 t=1656
+seoi 	須	c=2 d=0.609534 t=1656
+seoi jau 	需有	c=2 d=0.036697 t=1656
+seoi jiu 	需要	c=3 d=0.00537485 t=1656
+seoi kau 	需求	c=1 d=0.00852289 t=1656
+seoi zi dou 	雖知道	c=1 d=0.000735471 t=1656
+seon lei 	順利	c=1 d=0.486752 t=1656
+seon tou 	信徒	c=1 d=0.0141223 t=1656
+seot 	術	c=1 d=0.927743 t=1656
+si 	事	c=1 d=0.767206 t=1656
+si 	是	c=18 d=1.57107 t=1656
+si bat si 	是不是	c=1 d=0.000395642 t=1656
+si hi 	是𠺪	c=1 d=0.324652 t=1656
+si jau 	是由	c=1 d=0.00286554 t=1656
+si jau 	私有	c=1 d=0.0028799 t=1656
+si jung 	使用	c=1 d=0.0066709 t=1656
+si soeng 	思想	c=1 d=0.0982736 t=1656
+si zung 	時鐘	c=1 d=0.00878245 t=1656
+sik 	食	c=3 d=1.10848 t=1656
+sik ban 	食品	c=1 d=0.748264 t=1656
+sik bit 	識別	c=1 d=0.0135686 t=1656
+sing cing 	聲稱	c=1 d=0.0133665 t=1656
+sing ji 	誠意	c=1 d=0.199888 t=1656
+sing oi 	性愛	c=1 d=0.946485 t=1656
+sing wai 	成爲	c=1 d=0.000401622 t=1656
+siu 	小	c=3 d=0.455061 t=1656
+siu gaai 	小街	c=1 d=0.0218184 t=1656
+siu hong 	小巷	c=1 d=0.0219278 t=1656
+siu sat 	消失	c=0 d=0.000159641 t=1656
+siu sou dim 	小數點	c=2 d=0.0390919 t=1656
+so jau 	所有	c=1 d=0.0115047 t=1656
+so ji 	所以	c=2 d=0.0151553 t=1656
+soek gaa 	削價	c=1 d=1 t=1619
+soeng 	上	c=2 d=0.149011 t=1656
+soeng 	想	c=5 d=0.0687277 t=1656
+soeng dai 	上帝	c=2 d=0.140274 t=1656
+soeng dei 	上地	c=1 d=0.138761 t=1656
+soeng hau 	傷口	c=1 d=0.00213348 t=1656
+soeng huk 	想哭	c=1 d=0.0713613 t=1656
+soeng ngaan 	雙眼	c=1 d=0.000706632 t=1656
+soeng sam 	傷心	c=1 d=0.271173 t=1656
+soeng sau 	雙手	c=1 d=0.00249118 t=1656
+soeng sing 	想成	c=1 d=0.13332 t=1656
+sou zau 	蘇州	c=1 d=0.362402 t=1656
+suk se 	宿舍	c=2 d=0.0616424 t=1656
+sung 	從	c=5 d=0.714762 t=1656
+sung 	送	c=2 d=0.0108148 t=1656
+sung faa 	送花	c=1 d=0.00210172 t=1656
+sung ngo 	送我	c=1 d=0.000720907 t=1656
+syu 	書	c=2 d=0.115273 t=1656
+syu 	樹	c=0 d=0.0279431 t=1656
+syu 	輸	c=2 d=0.970446 t=1656
+syu 	鼠	c=1 d=0.0119742 t=1656
+syu jap 	輸入	c=3 d=0.0117538 t=1656
+syu jap faat 	輸入法	c=4 d=0.97531 t=1656
+syun 	算	c=1 d=0.0042963 t=1656
+syun zaak 	選擇	c=2 d=0.0327432 t=1656
+syun zung 	選中	c=1 d=0.00198925 t=1656
+syut 	說	c=2 d=0.243082 t=1656
+syut 	雪	c=1 d=0.554327 t=1656
+syut cyun 	說穿	c=1 d=0.00360656 t=1656
+syut faa 	雪花	c=1 d=0.0017643 t=1656
+syut lou 	雪路	c=1 d=0.00271219 t=1656
+taa 	他	c=3 d=0.298023 t=1656
+taa 	她	c=3 d=0.0814453 t=1656
+taa 	它	c=2 d=0.135713 t=1656
+taai 	太	c=4 d=0.162393 t=1656
+taam hat 	貪吃	c=1 d=0.254107 t=1656
+tan 	吞	c=1 d=0.256661 t=1656
+teoi ceot 	退出	c=1 d=0.000876127 t=1656
+tin 	天	c=2 d=0.0383225 t=1656
+ting dak 	聽得	c=1 d=0.000837575 t=1656
+ting zi 	停止	c=1 d=0.22313 t=1656
+tiu lei 	調理	c=1 d=1 t=1605
+tiu mou bing 	挑毛病	c=1 d=0.0156076 t=1656
+tiu zit 	調節	c=1 d=1 t=1607
+to 	拖	c=1 d=0.66034 t=1656
+to jin 	拖延	c=1 d=0.67032 t=1656
+tong je 	倘若	c=0 d=0.000990218 t=1656
+tou bei 	逃避	c=1 d=0.000850233 t=1656
+tou zau 	逃走	c=1 d=0.00327971 t=1656
+tung 	同	c=1 d=0.121007 t=1656
+tung 	彤	c=2 d=0.0841636 t=1656
+tung co 	痛楚	c=1 d=0.279431 t=1656
+tung dong 	同黨	c=1 d=0.0224829 t=1656
+tung fo 	同夥	c=1 d=0.0223708 t=1656
+tung ji ci 	同義詞	c=1 d=0.826959 t=1656
+tyut san 	脫身	c=1 d=0.0227089 t=1656
+waa 	話	c=2 d=0.00919582 t=1656
+waak 	或	c=1 d=0.0160829 t=1656
+waak syun 	劃損	c=1 d=0.00416933 t=1656
+waan 	還	c=6 d=0.157811 t=1656
+waan bat 	還不	c=1 d=0.000446085 t=1656
+waan jau 	還有	c=1 d=0.117655 t=1656
+waan si 	還是	c=1 d=0.0187793 t=1656
+waat 	滑	c=2 d=1.04679 t=1656
+waat liu 	滑溜	c=1 d=0.522046 t=1656
+wai 	偉	c=1 d=0.0380064 t=1656
+wai 	爲	c=3 d=1.11452 t=1656
+wai geoi 	畏懼	c=1 d=0.0239928 t=1656
+wai ho 	爲何	c=1 d=0.00273944 t=1656
+wan 	搵	c=2 d=0.327912 t=1656
+wing jyun 	永遠	c=1 d=0.193013 t=1656
+wo 	和	c=3 d=1.6225 t=1656
+wo caa o 	和差哦	c=1 d=0.177284 t=1656
+wo hoi 	禍害	c=1 d=0.0174224 t=1656
+wong 	往	c=1 d=0.00336274 t=1656
+wong 	王	c=1 d=0.00594622 t=1656
+wong lik 	王力	c=1 d=0.00597602 t=1656
+wong paai 	王牌	c=1 d=1 t=1651
+wu jau 	烏有	c=1 d=0.00355287 t=1656
+wui 	會	c=1 d=0.18175 t=1656
+wui fau 	回覆	c=1 d=0.00729913 t=1656
+wui gaa 	回家	c=1 d=0.0020396 t=1656
+wui gwok 	回國	c=1 d=0.0695994 t=1656
+wui lai 	回來	c=1 d=0.155673 t=1656
+wui liu 	會了	c=1 d=0.201897 t=1656
+wut 	活	c=1 d=0.00421123 t=1656
+zaan joeng 	讚揚	c=1 d=0.0216013 t=1656
+zaan mei 	讚美	c=1 d=0.0221792 t=1656
+zaan mei ci 	讚美詞	c=1 d=0.0214936 t=1656
+zaan soeng 	讚賞	c=1 d=0.0199405 t=1656
+zaang ceoi 	爭取	c=1 d=0.0948935 t=1656
+zaap gwaan 	習慣	c=2 d=1.32609 t=1656
+zaau 	找	c=2 d=0.114386 t=1656
+zaau dou 	找到	c=1 d=0.0518189 t=1656
+zaau zaau 	找找	c=1 d=0.0365162 t=1656
+zai 	齊	c=1 d=0.00100276 t=1656
+zai bik 	擠迫	c=2 d=0.00234121 t=1656
+zam 	怎	c=2 d=0.00318723 t=1656
+zam mo 	怎麼	c=5 d=0.0358237 t=1656
+zam mo joeng 	怎麼樣	c=3 d=0.246339 t=1656
+zam mo liu 	怎麼了	c=1 d=0.15259 t=1656
+zan ging 	震驚	c=2 d=1.98012 t=1656
+zang 	贈	c=1 d=0.00546167 t=1656
+zang hoi 	睜開	c=1 d=0.000703108 t=1656
+zau 	周	c=1 d=0.00348252 t=1656
+zau 	咒	c=1 d=0.00554422 t=1656
+zau 	就	c=4 d=0.986318 t=1656
+zau 	走	c=1 d=0.371577 t=1656
+zau syun 	就算	c=1 d=0.00975476 t=1656
+ze 	謝	c=2 d=0.0432599 t=1656
+ze 	這	c=3 d=0.00731579 t=1656
+ze go 	這個	c=2 d=0.0144039 t=1656
+ze joeng 	這樣	c=2 d=0.0260179 t=1656
+ze leoi 	這裏	c=1 d=0.946485 t=1656
+ze si 	這是	c=1 d=0.00737249 t=1656
+ze zoeng 	這張	c=1 d=0.101266 t=1656
+ze zung 	這種	c=1 d=0.101774 t=1656
+zeoi 	醉	c=2 d=0.0521125 t=1656
+zeoi gik 	追擊	c=1 d=0.25284 t=1656
+zeoi hou 	最好	c=2 d=0.253649 t=1656
+zeon 	進	c=1 d=0.00114769 t=1656
+zeon bou 	進步	c=1 d=0.687289 t=1656
+zeon zin 	進展	c=1 d=0.683861 t=1656
+zeon zung 	盡忠	c=1 d=0.000769323 t=1656
+zi 	之	c=2 d=0.0319691 t=1656
+zi 	只	c=8 d=2.79282 t=1656
+zi 	字	c=1 d=0.618783 t=1656
+zi 	寺	c=0 d=0.000114769 t=1656
+zi 	治	c=1 d=0.0125881 t=1656
+zi 	自	c=1 d=0.00951391 t=1656
+zi ci 	支持	c=1 d=0.0106202 t=1656
+zi cin 	之前	c=4 d=0.257393 t=1656
+zi ding ji 	自定義	c=2 d=1.92639 t=1656
+zi dou 	知道	c=0 d=7.31802e-05 t=1656
+zi gam 	只敢	c=1 d=0.00366107 t=1656
+zi gei 	自己	c=1 d=0.00660453 t=1656
+zi hau 	之後	c=2 d=0.802968 t=1656
+zi si 	只是	c=1 d=0.0081887 t=1656
+zi taai 	姿態	c=1 d=0.00375375 t=1656
+zik 	值	c=1 d=0.13466 t=1656
+zik 	跡	c=1 d=0.00192083 t=1656
+zik si 	即使	c=1 d=0.373439 t=1656
+zik zip 	直接	c=1 d=0.00914087 t=1656
+zing jat 	正日	c=2 d=0.00219387 t=1656
+zing ming 	證明	c=2 d=0.816296 t=1656
+zing sat 	證實	c=1 d=0.00163682 t=1656
+zing soeng 	正常	c=1 d=0.562705 t=1656
+zip sau 	接受	c=1 d=0.00267181 t=1656
+zit 	折	c=1 d=1 t=1615
+zit kau 	折扣	c=2 d=1.99005 t=1618
+zit zung 	折衷	c=2 d=0.0286729 t=1656
+ziu fu 	招呼	c=1 d=0.704688 t=1656
+zo 	咗	c=1 d=0.431711 t=1656
+zo bin 	左邊	c=1 d=0.179964 t=1656
+zo ci 	助詞	c=1 d=0.00970611 t=1656
+zo jau 	左右	c=2 d=0.720334 t=1656
+zoek 	著	c=1 d=0.00269866 t=1656
+zoeng 	像	c=1 d=0.00315111 t=1656
+zoeng 	將	c=1 d=0.00410726 t=1656
+zoeng 	獎	c=1 d=0.0167392 t=1656
+zoeng aak 	掌握	c=1 d=0.323033 t=1656
+zoeng hok gam 	獎學金	c=2 d=0.0879131 t=1656
+zoeng tip 	張貼	c=1 d=0.0235177 t=1656
+zoi 	再	c=5 d=0.594482 t=1656
+zoi 	在	c=16 d=2.11817 t=1656
+zok bai 	作弊	c=1 d=0.0229371 t=1656
+zou 	做	c=6 d=0.899151 t=1656
+zou coeng mung 	做場夢	c=1 d=0.000710174 t=1656
+zou faan 	早飯	c=1 d=0.0250972 t=1656
+zou fong 	租房	c=1 d=0.0804596 t=1656
+zou liu 	做了	c=1 d=0.00677172 t=1656
+zou sam mo 	做什麼	c=1 d=0.151829 t=1656
+zui haa o 	坠下哦	c=1 d=0.12493 t=1656
+zuk 	捉	c=3 d=0.0954338 t=1656
+zuk 	祝	c=1 d=0.217621 t=1656
+zuk bat 	捉不	c=1 d=0.00138785 t=1656
+zuk jyun 	祝願	c=1 d=0.218712 t=1656
+zung 	中	c=2 d=0.399291 t=1656
+zung 	總	c=1 d=0.00683978 t=1656
+zung bit 	終必	c=1 d=0.00231117 t=1656
+zung ci 	頌辭	c=1 d=0.0213864 t=1656
+zung dyun 	中斷	c=1 d=0.224249 t=1656
+zung git 	總結	c=1 d=0.00687406 t=1656
+zung jau 	仲有	c=1 d=0.400517 t=1656
+zung man 	中文	c=1 d=0.822835 t=1656
+zung sam 	中心	c=1 d=0.932394 t=1656
+zung zi 	中止	c=1 d=0.225373 t=1656
+zyu 	主	c=1 d=0.88692 t=1656
+zyu 	住	c=2 d=0.0607165 t=1656
+zyu di ge 	住啲嘅	c=1 d=0.582748 t=1656
+zyu ding 	註定	c=1 d=0.585669 t=1656
+zyu zi 	主旨	c=1 d=0.0132336 t=1656
+zyun 	轉	c=1 d=0.00486835 t=1656
+zyun jat 	專一	c=2 d=0.00229648 t=1656
+zyut 	絕	c=2 d=0.6252 t=1656
